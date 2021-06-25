@@ -1,6 +1,6 @@
 Hello! Welcome to my personal Github! Please visit my LinkedIn profile for more information about me and my experience
 
-For some <b>OTHER PROECTS</b> I have worked on, check out:
+For some <b>OTHER PROECTS</b> I have worked on (besides those I have pinned), check out:
 
 - Tinder Machine: https://github.com/mravella/tindermachine
     - Personally responsible for Eigenface preparation and SVM and KNN classification
