@@ -11,6 +11,7 @@ For some <b>OTHER PROECTS</b> I have worked on (besides those I have pinned), ch
     - Authored scrap_skypicker.py, scrap_clean_domestic.py, price_delay_clean1.py, price_delay_clean2.py, week_average.py, clean_and_add_distance.py, and calculate_avg.py
 
 - SpeakEasy, Real-Time SignLanguage Interpreter: https://github.com/tderosa/SpeakEasy
+    - Winner of "Best Hardware Hack" Award at Hack@Brown 2015
     - <b>Note: Commits/pushes do not reflect authorship.</b> All content was pushed up at once by one contributor
     - Personally responsible for LeapMotion API integration and prelimary sign-language interpretation
     - Authored signs.py, interpret.py
